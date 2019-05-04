@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
+    android:background="@color/colorPrimaryDark"
     android:orientation="vertical"
     tools:context=".AfterLoginActivity">
 
@@ -13,8 +14,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Add Items"
+        android:textSize="30dp"
         android:layout_margin="20dp"/>
     <Button
+        android:textSize="30dp"
         android:id="@+id/btnDashboard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -13,7 +13,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.ushan_mini_third.R;
+import com.example.RohitAwalOCSA.R;
 
 import static android.content.Context.MODE_PRIVATE;
 

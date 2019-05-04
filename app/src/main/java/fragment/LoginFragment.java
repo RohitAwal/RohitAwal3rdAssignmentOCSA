@@ -14,8 +14,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.ushan_mini_third.AfterLoginActivity;
-import com.example.ushan_mini_third.R;
+import com.example.RohitAwalOCSA.AfterLoginActivity;
+import com.example.RohitAwalOCSA.R;
 
 /**
  * A simple {@link Fragment} subclass.
